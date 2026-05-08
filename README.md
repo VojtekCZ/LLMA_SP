@@ -20,7 +20,7 @@ stamps each video with its seed as a watermark, and merges them all into one fin
 ## 🗂️ File Structure
 
 ```
-├── notebook.ipynb       # Main Kaggle notebook
+├── llma-sp.ipynb       # Main Kaggle notebook
 └── README.md            # This file
 ```
 
